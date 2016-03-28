@@ -1,0 +1,8 @@
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\bin\Debug\Jenkins Test AppTests.dll
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\bin\Debug\Jenkins Test AppTests.pdb
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\bin\Debug\Jenkins Test App.exe
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\bin\Debug\Jenkins Test App.pdb
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\obj\Debug\Jenkins Test AppTests.csprojResolveAssemblyReference.cache
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\obj\Debug\Jenkins Test AppTests.dll
+C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test AppTests\obj\Debug\Jenkins Test AppTests.pdb
