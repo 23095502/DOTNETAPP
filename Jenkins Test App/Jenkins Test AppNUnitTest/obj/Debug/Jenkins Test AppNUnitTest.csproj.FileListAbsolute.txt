@@ -1,0 +1,9 @@
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\Jenkins Test AppNUnitTest.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\Jenkins Test AppNUnitTest.pdb
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\obj\Debug\Jenkins Test AppNUnitTest.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\obj\Debug\Jenkins Test AppNUnitTest.pdb
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\obj\Debug\Jenkins Test AppNUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\Jenkins Test App.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test AppNUnitTest\bin\Debug\Jenkins Test App.pdb

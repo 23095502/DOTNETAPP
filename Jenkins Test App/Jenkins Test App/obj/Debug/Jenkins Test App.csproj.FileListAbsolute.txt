@@ -1,9 +1,5 @@
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\bin\Debug\Jenkins Test App.exe.config
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\bin\Debug\Jenkins Test App.exe
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\bin\Debug\Jenkins Test App.pdb
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.csprojResolveAssemblyReference.cache
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins_Test_App.Form1.resources
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins_Test_App.Properties.Resources.resources
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.csproj.GenerateResource.Cache
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.exe
-C:\Users\23148127\Desktop\ppp\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.pdb
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test App\bin\Debug\Jenkins Test App.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test App\bin\Debug\Jenkins Test App.pdb
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.dll
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.pdb
+C:\Users\23148127\Desktop\SSS\Jenkins Test App\Jenkins Test App\obj\Debug\Jenkins Test App.csprojResolveAssemblyReference.cache

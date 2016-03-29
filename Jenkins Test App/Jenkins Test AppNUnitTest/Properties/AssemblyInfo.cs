@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Jenkins Test App")]
+[assembly: AssemblyTitle("Jenkins Test AppNUnitTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Jenkins Test App")]
+[assembly: AssemblyProduct("Jenkins Test AppNUnitTest")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("22887eaf-5704-4f8f-86ac-4c7e17099c10")]
+[assembly: Guid("8e2b5828-6a57-449b-8249-8d071f7cc578")]
 
 // Version information for an assembly consists of the following four values:
 //
